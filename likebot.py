@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 # Path to your ChromeDriver executable
-CHROMEDRIVER_PATH = '/path/to/chromedriver'
+CHROMEDRIVER_PATH = r'C:\Users\logan\Downloads\chromedriver-win32\chromedriver-win32.exe'
 
 # Function to like a post using a TikTok account
 def like_post(account, post_url):
