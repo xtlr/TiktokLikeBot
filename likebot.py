@@ -51,8 +51,21 @@ def like_post(account, post_url):
 
 # List of accounts
 accounts = [
-    {'username': 'email1@example.com', 'password': 'password1'},
-    {'username': 'email2@example.com', 'password': 'password2'},
+    {'username': 'jwr8m689kjwyx@rblx.rocks', 'password': 'nffjouhzs1432'},
+    {'username': '8cbqt2h7nzuir@rblx.rocks', 'password': 'locqfaonq7821'},
+    {'username': '7k56hkn163v63@linustechtips.email', 'password': 'bnpafyzym7304'},
+    {'username': 'kwdomt3czy6vj@linustechtips.email', 'password': 'wijwptwua9213'}, 
+    {'username': 'pmszxqcp4b67h@linustechtips.email', 'password': 'potquesur6081'},
+    {'username': 'tzcpn81268o21@linustechtips.email', 'password': 'hdcgfdapx0274'},
+    {'username': 'up7l254fqw295@rblx.rocks', 'password': 'optiibpce5747'},
+    {'username': 'mjduy2ezlrbhe@linustechtips.email', 'password': 'equpvijut4198'},
+    {'username': 'hu0ujsovmtcpb@rblx.rocks', 'password': 'cslvsxccz2121'},
+    {'username': 'bc4lyi005xle7@linustechtips.email', 'password': 'dfyafxahg1429'},
+    {'username': '9saticryvsgt5@linustechtips.email', 'password': 'evsnrcjor6926'}, 
+    {'username': 'wha31mw786ug7@rblx.rocks', 'password': 'dbuiwbzet2779'},
+    {'username': 'qq9ch0m2qx1rh@rblx.rocks', 'password': 'lecrnifde9900'},
+    {'username': 'e8z4m42rcfs75@linustechtips.email', 'password': 'slyvkfdrl9591'},
+    {'username': 'm73m5tcgszsuo@rblx.rocks', 'password': 'obocxwuzz8500'},
     # Add more accounts as needed
 ]
 
